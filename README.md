@@ -1,16 +1,4 @@
-<pre class="headshot-ascii">                                                                                                    
-..````````......-----:-----........```   ```````            ```.....```              ```       ``...
-..````````...---:::://::::-----.....``````...```            ``.......``         `````````      ```..
-.`````````.--::://///////:::-------..````....``            ``........``        ```````````     ```..
-`````````.--::///++++++++///::-----...`.....````          ```....--..``       ``````````````   ``...
-````````.--://+++++oooooo+++//::::--........```````       ``....---..``       `````.`````````` ```..
-````````.-:/+++ooooossssssooo++//::-........````````     ```...----..``      ```.....`````````````..
-```````.-:/++oooossssssssssssoo++//:--......``````````  ```.-----::-.``      ```.....`````````````..
-```  ``.-/++ooossssssyyyyyyssssoo++/:::----........``````..---:::::-.``     ````....````````   ```..
-     ``.-/++ooossssssyyyyyyyyssssoo++///:::--------......--:::////::-.`` ````````````````      ```..
-     ``.-/++ooossssssyyyyyyyyysssssooo+++//:::::::-------::////////:-.````````````````         ``...
-      `.-:/++ooosssssssyyyyyyyysssssoooo+++///////:::::://++ooo++//:-.````````````             ``...
-      ``.://++oooosssssssssssssssssssoooo++++++++////+oyhdmmNNNmmdhyo:.````````````           ```...
+<pre>                                                                        
       ``.-://+++oooosssssssssssssooooo+++++++++++oshdmNNMMMMMMMMMMMMNmhs:....````````         ```...
        ``.-:://++++oooooooooooooo+++++//////+++shmNNNNNNNNNNNNNNNNNNNMMMNd+-......`````````` ````...
        ```.--::////++++++++++++++++///////+++ohmNNNNmNmmmmmmNNNNNNNNNNNNNMMd+.........```````````...
@@ -32,21 +20,5 @@
             ``.-:/++++//:::::/oddhhhyysssoo++/:--..`            ``.:oyhhhddmm/-..``             ````
              `.-:/++++++///::/hdhhhyyyssoooo+++//////::.```  `-:/osyyhhhdddmh..``                ```
              ``.-:/++oooo++//ydhhhyyyssssoooo++++++++++++++/+ossyyyyhhhhdddm+``                   ``
-   ````      ``.-:/++oooooooshhhyyyysssssoooooooooooooooooossssyyyyhhhhhddmm.                     ``
-  ``````````````.-:/++oooosshhhhyyyssssssoooooooooooosssssssyyyyyyhhhhhdddmy `                    ` 
-  ``````````````..-://+ooooyhhyyyssssssoooooooossssssssssssyyyyyyhhhhhdddmm:                        
- ``................--:/++oohhyyyssssossooooooossssssssssyyyyyyyyhhhhhddddmh`                        
-``.......-...........--:/+shyysssssoooooosssssssssssssssyyyyyyyyhhhhhhddmm+`                        
-`..----------..........--/yyysssoossoosssssssssssssssssyyyyyyyyhhhhhhdddmd.                         
-`.-----------............oyysssssoossssssssssssssssssssyyyyyyyhhhhhhddddmo                          
-.--------------.........-yyssssoooossssssssssssssssssssyyyyyyyhhhhhhddddd-                          
-.--:::----------......../ysssooooooossssssssssssssssyyyyyyyyyyyhhhhhdddmy                           
----:::----------........oysooooooossssssssssssssssssyyyyyyyyyyyhhhhhdddm:                           
-------------------.....:yssoooooooosssssssssssssssssyyyyyyyyyyhhhhhhddmy`                           
------------------......oyssoooooooosssssssssssssssssyyyyyyyyyyhhhhhhddd:                            
-----------------......:yssooooooooosssssssssssssssyyyyyyyyyyyhhhhhhddmy`                            
----------------.......yyssooooooooosssssssssssssssyyyyyyyyyyyhhhhhdddd:                             
---------------.....``+hyssooooooooosssssssssssssssyyyyyyyyyyyhhhhhdddy`                             
-.----------......```-hhyyssooooooooossssssssssssssssyyyyyyyyyyyhhhddm:                              
-                    `.....```````````````............................                               
 </pre>
+
